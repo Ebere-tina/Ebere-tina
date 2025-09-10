@@ -32,7 +32,7 @@
 
 ## 📫 Let's Connect!
 
-- Email: [datapsalm@gmail.com](mailto:datapsalm@gmail.com)
-- LinkedIn: [www.linkedin.com/in/data-sam](https://www.linkedin.com/in/data-sam/)
+- Email: [eberenwaehie@gmail.com](mailto:eberenwaehie@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/ebere-nwaehie-36268423b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/data-sam/)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
